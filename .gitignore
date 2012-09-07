@@ -15,3 +15,6 @@ build/*
 /* PODS */
 Pods/
 Podfile.lock
+
+/* Project */
+/Example
