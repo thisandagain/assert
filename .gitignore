@@ -1,0 +1,17 @@
+/*  XCODE */
+.DS_Store
+Thumbs.db
+xcuserdata/
+*.xcodeproj/*.pbxuser
+*.xcodeproj/*.perspectivev3
+*.xcodeproj/xcuserdata/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+*.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+*.xcuserstate
+
+/*  BUILD */
+build/*
+
+/* PODS */
+Pods/
+Podfile.lock
