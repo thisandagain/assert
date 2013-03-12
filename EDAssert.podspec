@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name = 'EDAssert'
-  s.version = '0.0.1'
+  s.version = '0.1.0'
   s.license = 'MIT'
   s.summary = 'Assertion extensions and utilities for OCUnit.'
   s.homepage = 'https://github.com/thisandagain/assert'
